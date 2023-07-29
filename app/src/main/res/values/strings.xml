@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="api_key">35a8f00bd8de4a8cbe66de831bc68bbf</string>
+
+    //Strings for CardView in random_recipe_list
+    <string name="default_recipe_name">Recipe</string>
+    <string name="default_person_count">2 People</string>
+    <string name="default_time">20 Minutes</string>
+    <string name="image_content_description">The image for the item of food</string>
+    <string name="person_symbol">The symbol of a person</string>
+    <string name="timer_symbol">The symbol of a timer</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+</resources>
